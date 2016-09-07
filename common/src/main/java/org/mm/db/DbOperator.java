@@ -28,6 +28,7 @@ public class DbOperator {
 
 	public void setUrl(String url) {
 		this.url = url;
+		return;
 	}
 
 	public String getUser() {
