@@ -6,6 +6,11 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>lalala</name>
 	<description>lalala</description>
+
+	
+
+
+
 	<dependencies>
 		<dependency>
 			<groupId>mysql</groupId>
